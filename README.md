@@ -1,4 +1,4 @@
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Elchin Gonagov</h1>
 
 - 🧪 **QA Automation Engineer | SDET** - 🎯 Specializing in **Web Automation & Quality Assurance**
